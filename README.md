@@ -2,7 +2,7 @@
 # Data Science Portfolio Testing
 What do we want to put here
 ## Experience
- **Blue Cross and Blue Shield of IL, MT, NM, OK & TX (_Dallas, TX September 2021 - Present_)**
+ **Blue Cross and Blue Shield of IL, MT, NM, OK & TX  - Dallas, TX (_September 2021 - Present_)**
  **Senior Analytics Consultant**
 - Develop data quality testing reporting and Tableau dashboards to monitor key business rules and key data
 transformations, resulting in a 25% improvement in data completeness and a 15% increase in data validity
