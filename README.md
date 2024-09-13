@@ -21,6 +21,10 @@ ___
 
 **911 Calls Project**
 
+![911](/assets/images/911.jpg)
+[^1]: Designed by [Freepik](freepik.com)
+
+
 This project involves analyzing 911 calls.
 The project originated from a capstone project I completed from a Udemy course on data science .
 
