@@ -2,6 +2,7 @@
 # Data Science Portfolio
 Hi I'm Akash and here is my portfolio.
 >## Education
+
 **The Georgia Institute of Technology**
 - Master of Science in Analytics (_May 2026_)
 
@@ -9,9 +10,10 @@ Hi I'm Akash and here is my portfolio.
 - Bachelor of Science and Arts in Biochemistry (_August 2017_)
 
 >## Experience
- **Blue Cross and Blue Shield of IL, MT, NM, OK & TX  - Dallas, TX (_September 2021 - Present_)**
 
- **_Senior Analytics Consultant_**
+**Blue Cross and Blue Shield of IL, MT, NM, OK & TX  - Dallas, TX (_September 2021 - Present_)**
+
+**_Senior Analytics Consultant_**
 - Develop data quality testing reporting and Tableau dashboards to monitor key business rules and key data
 transformations, resulting in a 25% improvement in data completeness and a 15% increase in data validity
 - Successfully implement automation of data quality testing frameworks, reducing time spent testing data by 75%
@@ -57,6 +59,8 @@ This project involves identifying different flowers based on flower dimensions.
 
 [Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master)
 ___
+
+
 **911 Calls Project**
 
 This project involves analyzing 911 calls.
