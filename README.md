@@ -32,9 +32,9 @@ The project originated from a capstone project I completed from a Udemy course o
 
 ___
 **The Georgia Institute of Technology**
-- Master of Science in Analytics (_May 2026_)
+- **Master of Science in Analytics (_May 2026_)**
 
-___
+
 
 
 **The University of Texas at Austin**
