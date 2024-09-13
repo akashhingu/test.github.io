@@ -21,7 +21,10 @@ transformations, resulting in a 25% improvement in data completeness and a 15% i
 rate in data migration and a 90% reduction in post-launch data issues
 - Perform analyses and identify solutions for HIVE database design, vendor extracts, and business rules that support the
 enterprise and promote data-driven decision making
-___
+---
+
+
+
 **AppLovin – Dallas, TX (October 2020 - September 2021)**
 
 **_Data Analyst_**
@@ -36,7 +39,7 @@ for a new mobile game
 driving optimization efforts for application design
 
 
-___
+---
 **Blue Cross and Blue Shield of IL, MT, NM, OK & TX – Dallas, TX (October 2018 - October 2020)** 
 
 **_Advanced Analytics Consultant_**
