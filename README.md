@@ -59,9 +59,8 @@ with marketing operations and the use of R scripts to enrich marketing campaign 
 This project involves identifying different flowers based on flower dimensions.
 
 [Iris Analysis](https://akashhingu.github.io/Clustering_Iris/){:target="_blank"}
-<a href = "https://akashhingu.github.io/Clustering_Iris/" target = "_blank">Link is here!</a>
 
-[Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master)
+[Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master){:target="_blank"}
 
 ![flower](/assets/images/iris.jpg)
 ---
@@ -72,7 +71,7 @@ This project involves identifying different flowers based on flower dimensions.
 This project involves analyzing 911 calls.
 The project originated from a capstone project I completed from a Udemy course on data science .
 
-[911 Calls Analysis](https://akashhingu.github.io/Python-Capstone-1/)
+[911 Calls Analysis](https://akashhingu.github.io/Python-Capstone-1/){:target="_blank"}
 
-[911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master)
+[911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master){:target="_blank"}
 
