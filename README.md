@@ -75,3 +75,5 @@ The project originated from a capstone project I completed from a Udemy course o
 
 [911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master){:target="_blank"}
 
+<p align="left" width="100%"><img width="33%" src=/assets/images/linkedin_circle.png></p>
+
