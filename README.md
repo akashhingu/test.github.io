@@ -58,7 +58,9 @@ This project involves identifying different flowers based on flower dimensions.
 [Iris Analysis](https://akashhingu.github.io/Clustering_Iris/)
 
 [Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master)
-___
+
+![flower](/assets/images/iris.jpg)
+---
 
 
 **911 Calls Project**
