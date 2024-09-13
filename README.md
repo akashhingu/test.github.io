@@ -2,6 +2,7 @@
 Hi I'm Akash and here is my portfolio.
 
 ## Projects
+
 ___
 **Clustering Analysis on Iris**
 
@@ -12,6 +13,7 @@ This project involves identifying different flowers based on flower dimensions.
 [Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master){:target="_blank"}
 
 ![flower](/assets/images/iris.jpg)
+
 ___
 
 
@@ -27,15 +29,22 @@ The project originated from a capstone project I completed from a Udemy course o
 
 
 ## Education
+
 ___
 **The Georgia Institute of Technology**
 - Master of Science in Analytics (_May 2026_)
+
 ___
+
+
 **The University of Texas at Austin**
 - Bachelor of Science and Arts in Biochemistry (_August 2017_)
 
 ## Experience
+
 ___
+
+
 **Blue Cross and Blue Shield of IL, MT, NM, OK & TX  - Dallas, TX (_September 2021 - Present_)**
 
 **_Senior Analytics Consultant_**
@@ -46,6 +55,8 @@ transformations, resulting in a 25% improvement in data completeness and a 15% i
 rate in data migration and a 90% reduction in post-launch data issues
 - Perform analyses and identify solutions for HIVE database design, vendor extracts, and business rules that support the
 enterprise and promote data-driven decision making
+
+
 ___
 
 
@@ -62,6 +73,8 @@ resulting in increased user engagement and revenue
 for a new mobile game
 - Created Tableau dashboards to track progress against KPIs and success metrics, identifying areas of improvement and
 driving optimization efforts for application design
+
+
 ___
 
 
