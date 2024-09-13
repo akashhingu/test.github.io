@@ -1,6 +1,31 @@
-# test.github.io
 # Data Science Portfolio
 Hi I'm Akash and here is my portfolio.
+
+>## Projects
+
+**Clustering Analysis on Iris**
+
+This project involves identifying different flowers based on flower dimensions.
+
+[Iris Analysis](https://akashhingu.github.io/Clustering_Iris){:target="_blank"}
+
+[Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master){:target="_blank"}
+
+![flower](/assets/images/iris.jpg)
+---
+
+
+**911 Calls Project**
+
+This project involves analyzing 911 calls.
+The project originated from a capstone project I completed from a Udemy course on data science .
+
+[911 Calls Analysis](https://akashhingu.github.io/Python-Capstone-1/){:target="_blank"}
+
+[911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master){:target="_blank"}
+---
+
+
 >## Education
 
 **The Georgia Institute of Technology**
@@ -37,8 +62,6 @@ resulting in increased user engagement and revenue
 for a new mobile game
 - Created Tableau dashboards to track progress against KPIs and success metrics, identifying areas of improvement and
 driving optimization efforts for application design
-
-
 ---
 **Blue Cross and Blue Shield of IL, MT, NM, OK & TX – Dallas, TX (October 2018 - October 2020)** 
 
@@ -50,29 +73,5 @@ time insights into digital campaign performance and driving informed decision-ma
 resulting in faster business insights and improved campaign performance
 - Implemented a strategy to increase campaign effectiveness across marketing channels by 5%, through collaboration
 with marketing operations and the use of R scripts to enrich marketing campaign email list
-
-
->## Projects
-
-**Clustering Analysis on Iris**
-
-This project involves identifying different flowers based on flower dimensions.
-
-[Iris Analysis](https://akashhingu.github.io/Clustering_Iris/){:target="_blank"}
-
-[Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master){:target="_blank"}
-
-![flower](/assets/images/iris.jpg)
----
-
-
-**911 Calls Project**
-
-This project involves analyzing 911 calls.
-The project originated from a capstone project I completed from a Udemy course on data science .
-
-[911 Calls Analysis](https://akashhingu.github.io/Python-Capstone-1/){:target="_blank"}
-
-[911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master){:target="_blank"}
 
 
