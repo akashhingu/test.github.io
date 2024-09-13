@@ -58,7 +58,8 @@ with marketing operations and the use of R scripts to enrich marketing campaign 
 
 This project involves identifying different flowers based on flower dimensions.
 
-[Iris Analysis](https://akashhingu.github.io/Clustering_Iris/)
+[Iris Analysis](https://akashhingu.github.io/Clustering_Iris/){:target="_blank"}
+<a href = "https://akashhingu.github.io/Clustering_Iris/" target = "_blank">Link is here!</a>
 
 [Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master)
 
