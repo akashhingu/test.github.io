@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Hi I'm Akash and here is my portfolio.
 
->## Projects
+## Projects
 
 **Clustering Analysis on Iris**
 
@@ -26,7 +26,7 @@ The project originated from a capstone project I completed from a Udemy course o
 ---
 
 
->## Education
+## Education
 
 **The Georgia Institute of Technology**
 - Master of Science in Analytics (_May 2026_)
@@ -34,7 +34,7 @@ The project originated from a capstone project I completed from a Udemy course o
 **The University of Texas at Austin**
 - Bachelor of Science and Arts in Biochemistry (_August 2017_)
 
->## Experience
+## Experience
 
 **Blue Cross and Blue Shield of IL, MT, NM, OK & TX  - Dallas, TX (_September 2021 - Present_)**
 
@@ -63,6 +63,8 @@ for a new mobile game
 - Created Tableau dashboards to track progress against KPIs and success metrics, identifying areas of improvement and
 driving optimization efforts for application design
 ---
+
+
 **Blue Cross and Blue Shield of IL, MT, NM, OK & TX – Dallas, TX (October 2018 - October 2020)** 
 
 **_Advanced Analytics Consultant_**
