@@ -6,13 +6,15 @@ Hi I'm Akash and here is my portfolio.
 ___
 **Clustering Analysis on Iris**
 
+![flower](/assets/images/iris.jpg)
+
 This project involves identifying different flowers based on flower dimensions.
 
 [Iris Analysis](https://akashhingu.github.io/Clustering_Iris){:target="_blank"}
 
 [Iris Code](https://github.com/akashhingu/Clustering_Iris/tree/master){:target="_blank"}
 
-![flower](/assets/images/iris.jpg)
+
 
 ___
 
@@ -32,7 +34,7 @@ The project originated from a capstone project I completed from a Udemy course o
 
 ___
 **The Georgia Institute of Technology**
-- **Master of Science in Analytics (_May 2026_)**
+- Master of Science in Analytics (_May 2026_)
 
 
 
