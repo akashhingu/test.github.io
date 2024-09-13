@@ -22,7 +22,7 @@ ___
 **911 Calls Project**
 
 ![911](/assets/images/911.jpg)
-[^1]: Designed by [Freepik](freepik.com)
+<sub> Designed by [Freepik](freepik.com)<sub>
 
 
 This project involves analyzing 911 calls.
