@@ -24,6 +24,7 @@ enterprise and promote data-driven decision making
 [Clustering Analysis on Iris](https://akashhingu.github.io/Clustering_Iris/)
 
 
-
-[911 Calls Project](https://github.com/akashhingu/Python-Capstone-1/blob/master/01-911%20Calls%20Data%20Capstone%20Project-Copy1.ipynb)
+**911 Calls Project**
+[911 Calls Project] (https://akashhingu.github.io/Python-Capstone-1/)
+[911 Calls Project Code](https://github.com/akashhingu/Python-Capstone-1/tree/master)
 
