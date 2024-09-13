@@ -8,6 +8,7 @@ ___
 
 ![flower](/assets/images/iris.jpg)
 
+
 This project involves identifying different flowers based on flower dimensions.
 
 [Iris Analysis](https://akashhingu.github.io/Clustering_Iris){:target="_blank"}
@@ -21,7 +22,7 @@ ___
 
 **911 Calls Project**
 
-![911](/assets/images/911.jpg)
+<img src= "/assets/images/911.jpg" width="500">
 <sub> Designed by [Freepik](freepik.com)<sub>
 
 
