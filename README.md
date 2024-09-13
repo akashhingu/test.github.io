@@ -19,6 +19,22 @@ This project involves identifying different flowers based on flower dimensions.
 
 ___
 
+**Classification Analysis on Credit Card Applications**
+
+![cc](/assets/images/cc.jpg)
+
+
+This project involves classifying credit card applications with respect to approvals and denials flowers
+
+
+[CC Analysis](https://akashhingu.github.io/classification_cc_apps/){:target="_blank"}
+
+[CC Code](https://github.com/akashhingu/classification_cc_apps){:target="_blank"}
+
+
+
+___
+
 
 **911 Calls Project**
 
