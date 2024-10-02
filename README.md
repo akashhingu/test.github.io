@@ -113,4 +113,16 @@ resulting in faster business insights and improved campaign performance
 - Implemented a strategy to increase campaign effectiveness across marketing channels by 5%, through collaboration
 with marketing operations and the use of R scripts to enrich marketing campaign email list
 
+___
+
+
+**CaptureRx – San Antonio, TX (September 2017 - October 2018)** 
+
+**_Implementation Data Specialist_**
+
+- Implemented an automated data validation process that reduced time spent on FTP file ingestion by 80%, improving
+efficiency and streamlining critical implementation operations
+- Created interactive dashboards to monitor key data performance metrics and ensure consistent data quality control
+
+
 
