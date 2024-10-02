@@ -19,6 +19,25 @@ This project involves identifying different flowers based on flower dimensions.
 
 ___
 
+
+**Regression Analysis on Crime Data**
+
+![cc](/assets/images/crime.jpg)
+<sub>Designed by [Freepik](freepik.com)<sub>
+
+
+This project involves predicting crime in cities based on historical crime data 
+
+
+[Regression Analysis](https://akashhingu.github.io/Regression_Crime_Data/){:target="_blank"}
+
+[Regression Code](https://github.com/akashhingu/Regression_Crime_Data){:target="_blank"}
+
+
+
+
+___
+
 **Classification Analysis on Credit Card Applications**
 
 ![cc](/assets/images/cc.jpg)
